@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << " Hellow World by Lumiko717 (meghivott MOSZE feladat)" <<std::endl;
     return 0;
 }
